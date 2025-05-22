@@ -38,11 +38,26 @@ Includes production-related data:
 
 ## Dashboards Created
 
-1. **Financial Analysis Dashboard** – Highlights revenue, budget, and profitability  
-2. **Ratings Analysis Dashboard** – Compares movie ratings across platforms and genres  
+1. **Financial Analysis Dashboard** – Highlights revenue, budget, and profitability
+
+   ![image](https://github.com/user-attachments/assets/dd72f2a0-f72b-45f1-bbe6-6ca706bb88f6)
+  
+2. **Ratings Analysis Dashboard** – Compares movie ratings across platforms and genres
+
+   ![image](https://github.com/user-attachments/assets/79c225d8-c115-4181-899d-5923a522859a)
+  
 3. **Genre Analysis Dashboard** – Tracks popularity and trends of movie genres  
+
+![image](https://github.com/user-attachments/assets/fba193ce-05b8-45f2-85ed-e8faf7560fbf)
+
 4. **Features Comparison Dashboard** – Side-by-side comparison of two movies  
-5. **Genre Profitability Trends Dashboard** – Analyzes profit trends by genre and time  
+
+![image](https://github.com/user-attachments/assets/99d1e8a6-2e66-49bc-86c5-1a3094ffebf9)
+
+5. **Genre Profitability Trends Dashboard** – Analyzes profit trends by genre and time
+
+![image](https://github.com/user-attachments/assets/d0ba39bd-e980-43a8-81f5-7a3ebf030839)
+ 
 
 ---
 
@@ -75,5 +90,5 @@ This Power BI project delivers a comprehensive exploration of the entertainment 
 
 **Akash Singh**  
 Email: akash.singh@georgebrown.ca  
-LinkedIn: (https://www.linkedin.com/in/akash-singh-979745147)
+[LinkedIn](https://www.linkedin.com/in/akash-singh-979745147)
 
