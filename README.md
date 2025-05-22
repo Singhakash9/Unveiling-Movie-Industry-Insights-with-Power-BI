@@ -48,15 +48,15 @@ Includes production-related data:
   
 3. **Genre Analysis Dashboard** – Tracks popularity and trends of movie genres  
 
-![image](https://github.com/user-attachments/assets/fba193ce-05b8-45f2-85ed-e8faf7560fbf)
+   ![image](https://github.com/user-attachments/assets/fba193ce-05b8-45f2-85ed-e8faf7560fbf)
 
 4. **Features Comparison Dashboard** – Side-by-side comparison of two movies  
 
-![image](https://github.com/user-attachments/assets/99d1e8a6-2e66-49bc-86c5-1a3094ffebf9)
+   ![image](https://github.com/user-attachments/assets/99d1e8a6-2e66-49bc-86c5-1a3094ffebf9)
 
 5. **Genre Profitability Trends Dashboard** – Analyzes profit trends by genre and time
 
-![image](https://github.com/user-attachments/assets/d0ba39bd-e980-43a8-81f5-7a3ebf030839)
+   ![image](https://github.com/user-attachments/assets/d0ba39bd-e980-43a8-81f5-7a3ebf030839)
  
 
 ---
