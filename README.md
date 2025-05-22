@@ -81,8 +81,8 @@ This Power BI project delivers a comprehensive exploration of the entertainment 
 
 ## Project Links
 
-- [Power BI File (GitHub)](https://github.com/sahil-kishor/PowerBI-Unveiling-Insights-in-the-Movie-Industry-Through-Data-Analysis/blob/main/Sahil_Kishor_PowerBI_Project_Part2.pbix)  
-- [Power BI File (Google Drive)](https://drive.google.com/file/d/1F3JKxoVOmaSH78tpTxSpWPrxTvvGzd6m/view?usp=sharing)  
+- [Power BI File (GitHub)](https://github.com/Singhakash9/Unveiling-Movie-Industry-Insights-with-Power-BI/blob/main/Akash%20Singh_PowerBI_Project.pbix)  
+- [Power BI File (Google Drive)](https://drive.google.com/file/d/1pwYnJsvjVgeXX9_3h4Ai12JpbSB99lyP/view?usp=sharing)
 
 ---
 
